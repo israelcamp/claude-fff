@@ -1,0 +1,10 @@
+{
+  "name": "claude-fff",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "FFF file and folder suggestions for Claude Code",
+  "dependencies": {
+    "@ff-labs/fff-node": "0.10.5"
+  }
+}
